@@ -14,3 +14,7 @@ I'm an Open Sources advocate and I try to collaborate whenever I can.
 - medium: [@fernandocanizo](https://medium.com/@fernandocanizo) (Just claps and highlights, no writtings yet)
 - codersrank: [fernandocanizo](https://profile.codersrank.io/user/fernandocanizo) (kind of cool, but doesn't really show everything I do/know)
 - hackerrank: [FernandoCanizo](https://www.hackerrank.com/FernandoCanizo) (like it a lot, but now I have it abandoned)
+
+<script>
+  alert('does this work?');
+</script>
