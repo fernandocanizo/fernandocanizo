@@ -2,15 +2,16 @@
 
 I'm Fernando L. Canizo, a parent of three, programmer of many, gardener of too many, builder of several, handyman when it's required.
 
-Currently working full time on [CSW Consultores Ambientales](https://github.com/cswcl/), but I'm available for part-time projects or fun and interesting projects.
+Currently (2021.01) taking a little time off, but I'll be happy to hear about work propositions be them for `{part,full}`-time projects or fun and interesting ideas.
 
-I'm an Open Sources advocate and I try to collaborate whenever I can.
+I'm an Open Sources advocate and I try to collaborate whenever an opportunity arises.
 
-
-- twitter: [fcanizo](https://twitter.com/fcanizo) (but I don't twit much)
-- linkedin: [fernando.canizo](https://www.linkedin.com/in/fernando-canizo/) (but I don't link much)
-- instagram: [ferlucamza](https://www.instagram.com/ferlucamza/) (I rarely post a photo and when I do, it's something else)
-- github: [you're looking it, dooh!](https://github.com/fernandocanizo/) (I code when I'm not fixing your data)
-- medium: [@fernandocanizo](https://medium.com/@fernandocanizo) (Just claps and highlights, no writtings yet)
-- codersrank: [fernandocanizo](https://profile.codersrank.io/user/fernandocanizo) (kind of cool, but doesn't really show everything I do/know)
-- hackerrank: [FernandoCanizo](https://www.hackerrank.com/FernandoCanizo) (like it a lot, but now I have it abandoned)
+- [GitHub](https://github.com/fernandocanizo/) Code, code, code
+- [StackOverflow](https://stackoverflow.com/users/978452/flc) Not a big question hunter, but got a question with 10k views, woa!
+- [CodersRank](https://profile.codersrank.io/user/fernandocanizo) Pretty cool graphics, though it doesn't really show everything I do/know
+- [HackerRank](https://www.hackerrank.com/FernandoCanizo) I like it a lot, but now I have it abandoned
+- [Linkedin](https://www.linkedin.com/in/fernando-canizo/) I don't link much
+- [Freelancer.com](http://www.freelancer.com/u/FernandoCanizo.html) An old version of me, but check the nice comments from contractors ;)
+- [Twitter](https://twitter.com/fcanizo) I don't twit much
+- [Instagram](https://www.instagram.com/ferlucamza/) I rarely post a photo and when I do, it's something else
+- [Medium](https://medium.com/@fernandocanizo) Just claps and highlights, no writtings yet
