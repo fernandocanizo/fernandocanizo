@@ -15,3 +15,4 @@ I'm an Open Sources advocate and I try to collaborate whenever an opportunity ar
 - [Twitter](https://twitter.com/fcanizo) I don't twit much
 - [Instagram](https://www.instagram.com/ferlucamza/) I rarely post a photo and when I do, it's something else
 - [Medium](https://medium.com/@fernandocanizo) Just claps and highlights, no writtings yet
+- [GoodReads](https://www.goodreads.com/user/show/63375606-fernando-canizo) Books I've read or want to read :D
