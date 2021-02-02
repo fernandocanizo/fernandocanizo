@@ -1,6 +1,6 @@
 ### 😎
 
-I'm Fernando L. Canizo, a parent of three, programmer of many, gardener of too many, builder of several, handyman when it's required.
+I'm Fernando L. Canizo, a parent of three, programmer of many, gardener of many more, builder of several, and a pretty decent handyman when it's required.
 
 Currently (2021.01) taking a little time off, but I'll be happy to hear about work propositions be them for `{part,full}`-time projects or fun and interesting ideas.
 
@@ -16,3 +16,12 @@ I'm an Open Sources advocate and I try to collaborate whenever an opportunity ar
 - [Instagram](https://www.instagram.com/ferlucamza/) I rarely post a photo and when I do, it's something else
 - [Medium](https://medium.com/@fernandocanizo) Just claps and highlights, no writtings yet
 - [GoodReads](https://www.goodreads.com/user/show/63375606-fernando-canizo) Books I've read or want to read :D
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fernandocanizo" />
+
+While CodersRank system to show skills is pretty nice, it doesn't properly show my current main skills, so I'll patch it here:
+
+- **Present: Javascript/Nodejs, Postgresql, HTML5, CSS, Bash, AWS, Docker, Jest, Leaflet, Mapbox, Expressjs, tcomb,
+GeoJson, JSON, git**
+- Past: React, MongoDB, Meteor.js, MySQL, newLisp, Python, Perl, C, picoLisp, Lisp, SQLite, Redis, jQuery,
+Twitter Bootstrap, Snabbdom, Mocha, Chai
