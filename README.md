@@ -10,8 +10,8 @@ I'm an Open Sources advocate and I try to collaborate whenever an opportunity ar
 
 ## Some stats from GitHub
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fernandocanizo)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanizo)
+![github stats](https://github-readme-stats.vercel.app/api?username=fernandocanizo&count_private=true&show_icons=true&theme=prussian&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanizo&langs_count=10)
 
 ---
 
