@@ -6,13 +6,83 @@ Currently (2021.01) taking a little time off, but I'll be happy to hear about wo
 
 I'm an Open Sources advocate and I try to collaborate whenever an opportunity arises.
 
+Some other profiles from me:
+
+<a href="https://github.com/fernandocanizo/">
+  <img
+    alt="GitHub profile"
+    src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://stackoverflow.com/users/978452/flc">
+  <img
+    alt="Stack Overflow profile"
+    src="https://img.shields.io/badge/stackoverflow-fe7a16?logo=stackoverflow&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://profile.codersrank.io/user/fernandocanizo">
+  <img
+    alt="Coders Rank profile"
+    src="https://img.shields.io/badge/codersrank-67a4ac?logo=codersrank&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.hackerrank.com/FernandoCanizo">
+  <img
+    alt="Hacker Rank profile"
+    src="https://img.shields.io/badge/hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/fernando-canizo/">
+  <img
+    alt="LinkedIn profile"
+    src="https://img.shields.io/badge/linkedin-0077b5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="http://www.freelancer.com/u/FernandoCanizo.html">
+  <img
+    alt="Freelancer profile"
+    src="https://img.shields.io/badge/freelancer-29b2fe?logo=freelancer&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://twitter.com/fcanizo">
+  <img
+    alt="Twitter account"
+    src="https://img.shields.io/badge/twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.instagram.com/ferlucamza/">
+  <img
+    alt="Instagram account"
+    src="https://img.shields.io/badge/instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://medium.com/@fernandocanizo">
+  <img
+    alt="Medium profile"
+    src="https://img.shields.io/badge/medium-12100e?logo=medium&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.goodreads.com/user/show/63375606-fernando-canizo">
+  <img
+    alt="Good Reads profile"
+    src="https://img.shields.io/badge/goodreads-372213?logo=goodreads&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 - [GitHub](https://github.com/fernandocanizo/) Code, code, code
 - [StackOverflow](https://stackoverflow.com/users/978452/flc) Not a big question hunter, but got a question with 10k views, woa!
 - [CodersRank](https://profile.codersrank.io/user/fernandocanizo) Pretty cool graphics, though it doesn't really show everything I do/know
 - [HackerRank](https://www.hackerrank.com/FernandoCanizo) I like it a lot, but now I have it abandoned
 - [Linkedin](https://www.linkedin.com/in/fernando-canizo/) I don't link much
 - [Freelancer.com](http://www.freelancer.com/u/FernandoCanizo.html) An old version of me, but check the nice comments from contractors ;)
-- [Twitter](https://twitter.com/fcanizo) I don't twit much
+- [Twitter](https://twitter.com/fcanizo) I don't https://profile.codersrank.io/user/fernandocanizotwit much
 - [Instagram](https://www.instagram.com/ferlucamza/) I rarely post a photo and when I do, it's something else
 - [Medium](https://medium.com/@fernandocanizo) Just claps and highlights, no writtings yet
 - [GoodReads](https://www.goodreads.com/user/show/63375606-fernando-canizo) Books I've read or want to read :D
