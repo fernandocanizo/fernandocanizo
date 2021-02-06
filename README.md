@@ -21,18 +21,56 @@ I'm an Open Sources advocate and I try to collaborate whenever an opportunity ar
 
 While CodersRank system shows skills pretty nice, it doesn't currently show all my skills, so I'll patch it here with my main skills:
 
-<img src="https://img.shields.io/badge/javascript-ffff00?logo=javascript&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/node.js-026e00?logo=node-dot-js&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/html-e14d25?logo=html5&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/css-2864e9?logo=css3&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/express.js-eeeeee?logo=express&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/bash-72a824?logo=gnubash&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/docker-2496ed?logo=docker&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/aws-232f3e?logo=amazonaws&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/leaflet-199900?logo=leaflet&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/json-aeaeae?logo=json&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/jwt-d935ff?logo=jsonwebtokens&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/git-f05032?logo=git&logoColor=black&style=for-the-badge" />
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/javascript-ffff00?logo=javascript&logoColor=black&style=for-the-badge" style="float:left" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-026e00?logo=node-dot-js&logoColor=black&style=for-the-badge" style="float:left" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=black&style=for-the-badge" style="float:left" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/html-e14d25?logo=html5&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/css-2864e9?logo=css3&logoColor=black&style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/express.js-eeeeee?logo=express&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/bash-72a824?logo=gnubash&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/docker-2496ed?logo=docker&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/aws-232f3e?logo=amazonaws&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=black&style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/leaflet-199900?logo=leaflet&logoColor=black&style=for-the-badge" />
+    </td>
+    <td>
+    </td>
+      <img src="https://img.shields.io/badge/mapbox-000000?logo=mapbox&logoColor=white&style=for-the-badge" />
+    <td>
+    </td>
+      <img src="https://img.shields.io/badge/json-aeaeae?logo=json&logoColor=black&style=for-the-badge" />
+    <td>
+    </td>
+      <img src="https://img.shields.io/badge/jwt-d935ff?logo=jsonwebtokens&logoColor=black&style=for-the-badge" />
+    <td>
+      <img src="https://img.shields.io/badge/git-f05032?logo=git&logoColor=black&style=for-the-badge" />
+    </td>
+  </tr>
+</table>
