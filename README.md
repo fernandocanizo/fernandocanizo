@@ -110,3 +110,10 @@ While CodersRank system shows skills pretty nice, it doesn't currently show all 
   <img src="https://img.shields.io/badge/jwt-d935ff?logo=json-web-tokens&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/git-f05032?logo=git&logoColor=black&style=for-the-badge" />
 </p>
+
+---
+
+## Languages
+
+- **Spanish** native speaker
+- **English** professional working proficiency - [Achieved CEFR C1 level](https://api2.englishscore.com/verify/4456a02f) in the British Council English Score Core Skill Test.
