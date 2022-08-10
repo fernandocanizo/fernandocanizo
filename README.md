@@ -2,9 +2,9 @@
 
 I'm **Fernando L. Canizo**, parent, programmer, gardener, builder, handyman.
 
-I'm currently (2021.10) working at [Globant](https://www.globant.com/) as a NodeJs developer, but I'll be happy to hear about work propositions be them for `{part,full}`-time projects or fun and interesting ideas.
+I'm currently (2022.08) actively looking for a new remote-first job.
 
-I'm an Open Sources advocate and I try to collaborate whenever an opportunity arises.
+I'm an Open Sources advocate and I'm eager to collaborate whenever an opportunity arises.
 
 ---
 
