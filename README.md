@@ -87,11 +87,13 @@ I'm an Open Sources advocate and I'm eager to collaborate whenever an opportunit
 
 ---
 
-## Skills according to CodersRank
+## Skills
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fernandocanizo" />
+[CodersRank](https://codersrank.io/) is a nice platform that shows your **real** experience since it analyzes commits from repositories you feed it and builds informed data about your contributions.
 
-While CodersRank system shows skills pretty nice, it doesn't currently show all my skills, so I'll patch it here with my main skills:
+[My profile at CodersRank](https://profile.codersrank.io/user/fernandocanizo)
+
+While CodersRank's system shows skills pretty nice, it fails to detect some technologies, so I'll patch it here with my main skills:
 
 <p>
   <img src="https://img.shields.io/badge/javascript-ffff00?logo=javascript&logoColor=black&style=for-the-badge" style="float:left" />
