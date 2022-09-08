@@ -8,82 +8,11 @@ I'm an Open Sources advocate and I'm eager to collaborate whenever an opportunit
 
 ---
 
-## External profiles
-
-<a href="https://github.com/fernandocanizo/">
-  <img
-    alt="GitHub profile"
-    src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://stackoverflow.com/users/978452/flc">
-  <img
-    alt="Stack Overflow profile"
-    src="https://img.shields.io/badge/stackoverflow-fe7a16?logo=stackoverflow&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://profile.codersrank.io/user/fernandocanizo">
-  <img
-    alt="Coders Rank profile"
-    src="https://img.shields.io/badge/codersrank-67a4ac?logo=codersrank&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://www.hackerrank.com/FernandoCanizo">
-  <img
-    alt="Hacker Rank profile"
-    src="https://img.shields.io/badge/hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/fernando-canizo/">
-  <img
-    alt="LinkedIn profile"
-    src="https://img.shields.io/badge/linkedin-0077b5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="http://www.freelancer.com/u/FernandoCanizo.html">
-  <img
-    alt="Freelancer profile"
-    src="https://img.shields.io/badge/freelancer-29b2fe?logo=freelancer&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://twitter.com/fcanizo">
-  <img
-    alt="Twitter account"
-    src="https://img.shields.io/badge/twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://www.instagram.com/ferlucamza/">
-  <img
-    alt="Instagram account"
-    src="https://img.shields.io/badge/instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://medium.com/@fernandocanizo">
-  <img
-    alt="Medium profile"
-    src="https://img.shields.io/badge/medium-12100e?logo=medium&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-<a href="https://www.goodreads.com/user/show/63375606-fernando-canizo">
-  <img
-    alt="Good Reads profile"
-    src="https://img.shields.io/badge/goodreads-372213?logo=goodreads&logoColor=white&style=for-the-badge"
-  />
-</a>
-
----
-
-## Some stats from GitHub
+## GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fernandocanizo&count_private=true&show_icons=true&theme=prussian&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanizo&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanizo&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -119,3 +48,79 @@ While CodersRank's system shows skills pretty nice, it fails to detect some tech
 
 - **Spanish** native speaker
 - **English** professional working proficiency - [Achieved CEFR C1 level](https://api2.englishscore.com/verify/4456a02f) in the British Council English Score Core Skill Test.
+
+---
+
+## External profiles
+
+- <a href="https://github.com/fernandocanizo/">
+  <img
+    alt="GitHub profile"
+    src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://stackoverflow.com/users/978452/flc">
+  <img
+    alt="Stack Overflow profile"
+    src="https://img.shields.io/badge/stackoverflow-fe7a16?logo=stackoverflow&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://profile.codersrank.io/user/fernandocanizo">
+  <img
+    alt="Coders Rank profile"
+    src="https://img.shields.io/badge/codersrank-67a4ac?logo=codersrank&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://www.hackerrank.com/FernandoCanizo">
+  <img
+    alt="Hacker Rank profile"
+    src="https://img.shields.io/badge/hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://www.linkedin.com/in/fernando-canizo/">
+  <img
+    alt="LinkedIn profile"
+    src="https://img.shields.io/badge/linkedin-0077b5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="http://www.freelancer.com/u/FernandoCanizo.html">
+  <img
+    alt="Freelancer profile"
+    src="https://img.shields.io/badge/freelancer-29b2fe?logo=freelancer&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://twitter.com/fcanizo">
+  <img
+    alt="Twitter account"
+    src="https://img.shields.io/badge/twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://www.instagram.com/ferlucamza/">
+  <img
+    alt="Instagram account"
+    src="https://img.shields.io/badge/instagram-e4405f?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://medium.com/@fernandocanizo">
+  <img
+    alt="Medium profile"
+    src="https://img.shields.io/badge/medium-12100e?logo=medium&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+- <a href="https://www.goodreads.com/user/show/63375606-fernando-canizo">
+  <img
+    alt="Good Reads profile"
+    src="https://img.shields.io/badge/goodreads-372213?logo=goodreads&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+---
