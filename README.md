@@ -102,6 +102,13 @@ While CodersRank's system shows skills pretty nice, it fails to detect some tech
   />
 </a>
 
+- <a href="https://hachyderm.io/@fcanizo" rel="me">
+  <img
+    alt="Mastodon account"
+    src="https://img.shields.io/badge/mastodon-1da1f2?logo=mastodon&logoColor=blue&style=for-the-badge&color=black"
+  />
+ </a>
+
 - <a href="https://www.instagram.com/ferlucamza/">
   <img
     alt="Instagram account"
