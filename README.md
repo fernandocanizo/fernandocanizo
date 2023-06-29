@@ -53,13 +53,6 @@ While CodersRank's system shows skills pretty nice, it fails to detect some tech
 
 ## External profiles
 
-- <a href="https://github.com/fernandocanizo/">
-  <img
-    alt="GitHub profile"
-    src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge"
-  />
-</a>
-
 - <a href="https://stackoverflow.com/users/978452/flc">
   <img
     alt="Stack Overflow profile"
