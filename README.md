@@ -2,7 +2,7 @@
 
 I'm **Fernando L. Canizo**, parent, programmer, gardener, builder, handyman.
 
-I'm currently (2022.08) actively looking for a new remote-first job.
+Actively looking for a new remote-first job.
 
 I'm an Open Sources advocate and I'm eager to collaborate whenever an opportunity arises.
 
