@@ -9,7 +9,7 @@ I'm an Open Sources advocate and I'm eager to collaborate whenever an opportunit
 ---
 
 ## GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fernandocanizo&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fernandocanizo&count_private=true&show_icons=true&theme=prussian&include_all_commits=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocanizo&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
